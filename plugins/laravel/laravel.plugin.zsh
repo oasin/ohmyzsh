@@ -27,6 +27,7 @@ alias pampp='php artisan make:provider'
 
 
 # Clears
+alias paocc='php artisan optimize:clear'
 alias pacac='php artisan cache:clear'
 alias pacoc='php artisan config:clear'
 alias pavic='php artisan view:clear'
